@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Vending Machine App</string>
+    <string name="app_title">Soft Drinks Store</string>
+    <string name="first_intro_text">F</string>
+</resources>
