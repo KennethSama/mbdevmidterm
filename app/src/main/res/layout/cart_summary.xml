@@ -35,11 +35,11 @@
             app:layout_constraintEnd_toEndOf="@+id/button_confirm"
             app:layout_constraintHorizontal_bias="0.0"
             app:layout_constraintStart_toStartOf="@+id/button_confirm"
-            app:layout_constraintTop_toBottomOf="@+id/textView5"
+            app:layout_constraintTop_toBottomOf="@+id/text_or"
             app:layout_constraintVertical_bias="0.0" />
 
         <TextView
-            android:id="@+id/textView5"
+            android:id="@+id/text_or"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="4dp"
@@ -62,7 +62,7 @@
             android:textSize="11sp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/gridLayout2" />
+            app:layout_constraintTop_toBottomOf="@+id/gridLayoutSummary" />
 
         <TextView
             android:id="@+id/textView6"
@@ -78,7 +78,7 @@
             app:layout_constraintTop_toTopOf="parent" />
 
         <androidx.gridlayout.widget.GridLayout
-            android:id="@+id/gridLayout2"
+            android:id="@+id/gridLayoutSummary"
             android:layout_width="361dp"
             android:layout_height="wrap_content"
             android:layout_marginTop="12dp"

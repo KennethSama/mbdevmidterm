@@ -9,6 +9,7 @@
     <color name="white">#FFFFFFFF</color>
     <color name="default_blue">#006AB6</color>
     <color name="default_white">#FCFCFC</color>
+    <color name="default_gray">#F5F5F5</color>
     <color name="actionBarTextColor">#000000</color>
     <color name="actionBarVariant">#A6A6A6</color>
 </resources>
